@@ -1,0 +1,1352 @@
+{
+ "query": {
+  "count": 1,
+  "created": "2014-12-11T23:59:39Z",
+  "lang": "en-US",
+  "diagnostics": {
+   "publiclyCallable": "true",
+   "url": {
+    "execution-start-time": "0",
+    "execution-stop-time": "259",
+    "execution-time": "259",
+    "content": "http://fantasysports.yahooapis.com/fantasy/v2/leagues;league_keys=342.l.42669/scoreboard"
+   },
+   "user-time": "263",
+   "service-time": "259",
+   "build-version": "0.2.212"
+  },
+  "results": {
+   "league": {
+    "league_key": "342.l.42669",
+    "league_id": "42669",
+    "name": "The Lion's Den",
+    "url": "http://basketball.fantasysports.yahoo.com/nba/42669",
+    "password": null,
+    "league_chat_id": null,
+    "draft_status": "postdraft",
+    "num_teams": "14",
+    "edit_key": "2014-12-12",
+    "weekly_deadline": null,
+    "league_update_timestamp": "1418286129",
+    "scoring_type": "head",
+    "league_type": "private",
+    "renew": "322_40427",
+    "renewed": null,
+    "short_invitation_url": "https://yho.com/nba?l=42669&k=d406f2062ca90ca1",
+    "is_pro_league": "0",
+    "current_week": "7",
+    "start_week": "1",
+    "start_date": "2014-10-28",
+    "end_week": "23",
+    "end_date": "2015-04-05",
+    "scoreboard": {
+     "week": "7",
+     "matchups": {
+      "count": "7",
+      "matchup": [
+       {
+        "week": "7",
+        "week_start": "2014-12-08",
+        "week_end": "2014-12-14",
+        "status": "midevent",
+        "is_playoffs": "0",
+        "is_consolation": "0",
+        "teams": {
+         "count": "2",
+         "team": [
+          {
+           "team_key": "342.l.42669.t.1",
+           "team_id": "1",
+           "name": "J 2 the Peat",
+           "url": "http://basketball.fantasysports.yahoo.com/nba/42669/1",
+           "team_logos": {
+            "team_logo": {
+             "size": "large",
+             "url": "https://i.imgur-ysports.com/O0rhmhBy.jpg"
+            }
+           },
+           "waiver_priority": "2",
+           "number_of_moves": "16",
+           "number_of_trades": "3",
+           "roster_adds": {
+            "coverage_type": "week",
+            "coverage_value": "7",
+            "value": "0"
+           },
+           "managers": {
+            "manager": {
+             "manager_id": "1",
+             "nickname": "Jvalant",
+             "guid": "NLIMOTM3NF7PKWLMF7FNYBVPOU",
+             "is_commissioner": "1",
+             "email": "jvdave23@gmail.com",
+             "image_url": "https://s.yimg.com/dg/users/1TdVXIRo3AAEDKoE_2JTX1JgB.64.png"
+            }
+           },
+           "team_stats": {
+            "coverage_type": "week",
+            "week": "7",
+            "stats": {
+             "stat": [
+              {
+               "stat_id": "9004003",
+               "value": "95/220"
+              },
+              {
+               "stat_id": "5",
+               "value": ".432"
+              },
+              {
+               "stat_id": "9007006",
+               "value": "48/69"
+              },
+              {
+               "stat_id": "8",
+               "value": ".696"
+              },
+              {
+               "stat_id": "10",
+               "value": "10"
+              },
+              {
+               "stat_id": "12",
+               "value": "248"
+              },
+              {
+               "stat_id": "15",
+               "value": "108"
+              },
+              {
+               "stat_id": "16",
+               "value": "50"
+              },
+              {
+               "stat_id": "17",
+               "value": "10"
+              },
+              {
+               "stat_id": "18",
+               "value": "15"
+              },
+              {
+               "stat_id": "19",
+               "value": "43"
+              }
+             ]
+            }
+           },
+           "team_points": {
+            "coverage_type": "week",
+            "week": "7",
+            "total": "2"
+           }
+          },
+          {
+           "team_key": "342.l.42669.t.6",
+           "team_id": "6",
+           "name": "G.O.M.D.",
+           "url": "http://basketball.fantasysports.yahoo.com/nba/42669/6",
+           "team_logos": {
+            "team_logo": {
+             "size": "large",
+             "url": "https://i.imgur-ysports.com/6t5LbY6y.jpg"
+            }
+           },
+           "waiver_priority": "11",
+           "number_of_moves": "24",
+           "number_of_trades": "4",
+           "roster_adds": {
+            "coverage_type": "week",
+            "coverage_value": "7",
+            "value": "1"
+           },
+           "managers": {
+            "manager": {
+             "manager_id": "6",
+             "nickname": "Glenn",
+             "guid": "YPJ5CBGOI43QRZ4ML7QGFQVCBU",
+             "email": "glennsand09@gmail.com",
+             "image_url": "https://s.yimg.com/dh/ap/social/profile/profile_b64.png"
+            }
+           },
+           "team_stats": {
+            "coverage_type": "week",
+            "week": "7",
+            "stats": {
+             "stat": [
+              {
+               "stat_id": "9004003",
+               "value": "71/156"
+              },
+              {
+               "stat_id": "5",
+               "value": ".455"
+              },
+              {
+               "stat_id": "9007006",
+               "value": "24/33"
+              },
+              {
+               "stat_id": "8",
+               "value": ".727"
+              },
+              {
+               "stat_id": "10",
+               "value": "13"
+              },
+              {
+               "stat_id": "12",
+               "value": "179"
+              },
+              {
+               "stat_id": "15",
+               "value": "97"
+              },
+              {
+               "stat_id": "16",
+               "value": "50"
+              },
+              {
+               "stat_id": "17",
+               "value": "12"
+              },
+              {
+               "stat_id": "18",
+               "value": "15"
+              },
+              {
+               "stat_id": "19",
+               "value": "33"
+              }
+             ]
+            }
+           },
+           "team_points": {
+            "coverage_type": "week",
+            "week": "7",
+            "total": "5"
+           }
+          }
+         ]
+        }
+       },
+       {
+        "week": "7",
+        "week_start": "2014-12-08",
+        "week_end": "2014-12-14",
+        "status": "midevent",
+        "is_playoffs": "0",
+        "is_consolation": "0",
+        "teams": {
+         "count": "2",
+         "team": [
+          {
+           "team_key": "342.l.42669.t.2",
+           "team_id": "2",
+           "name": "Tamillatary",
+           "url": "http://basketball.fantasysports.yahoo.com/nba/42669/2",
+           "team_logos": {
+            "team_logo": {
+             "size": "large",
+             "url": "https://i.imgur-ysports.com/VNkRJzoy.jpg"
+            }
+           },
+           "waiver_priority": "1",
+           "number_of_moves": "5",
+           "number_of_trades": "1",
+           "roster_adds": {
+            "coverage_type": "week",
+            "coverage_value": "7",
+            "value": "0"
+           },
+           "managers": {
+            "manager": {
+             "manager_id": "2",
+             "nickname": "Sukeesan",
+             "guid": "UKTUL73YWXSPM7CMAFWW4RVQJM",
+             "email": "sukeesan_7@hotmail.com",
+             "image_url": "https://socialprofiles.zenfs.com/images/10849a807a8f965c39cc8f208fb6a9a6_64.jpg"
+            }
+           },
+           "team_stats": {
+            "coverage_type": "week",
+            "week": "7",
+            "stats": {
+             "stat": [
+              {
+               "stat_id": "9004003",
+               "value": "94/207"
+              },
+              {
+               "stat_id": "5",
+               "value": ".454"
+              },
+              {
+               "stat_id": "9007006",
+               "value": "57/73"
+              },
+              {
+               "stat_id": "8",
+               "value": ".781"
+              },
+              {
+               "stat_id": "10",
+               "value": "12"
+              },
+              {
+               "stat_id": "12",
+               "value": "257"
+              },
+              {
+               "stat_id": "15",
+               "value": "110"
+              },
+              {
+               "stat_id": "16",
+               "value": "48"
+              },
+              {
+               "stat_id": "17",
+               "value": "22"
+              },
+              {
+               "stat_id": "18",
+               "value": "16"
+              },
+              {
+               "stat_id": "19",
+               "value": "46"
+              }
+             ]
+            }
+           },
+           "team_points": {
+            "coverage_type": "week",
+            "week": "7",
+            "total": "1"
+           }
+          },
+          {
+           "team_key": "342.l.42669.t.4",
+           "team_id": "4",
+           "name": "Heisenberg",
+           "url": "http://basketball.fantasysports.yahoo.com/nba/42669/4",
+           "team_logos": {
+            "team_logo": {
+             "size": "large",
+             "url": "https://i.imgur-ysports.com/OyzipyGy.jpg"
+            }
+           },
+           "waiver_priority": "10",
+           "number_of_moves": "41",
+           "number_of_trades": "1",
+           "roster_adds": {
+            "coverage_type": "week",
+            "coverage_value": "7",
+            "value": "0"
+           },
+           "managers": {
+            "manager": {
+             "manager_id": "4",
+             "nickname": "Vishal",
+             "guid": "VDX33JAM7KSYABTAYXHEDX6XYA",
+             "email": "vishalach_32@hotmail.com",
+             "image_url": "https://s.yimg.com/dh/ap/social/profile/profile_b64.png"
+            }
+           },
+           "team_stats": {
+            "coverage_type": "week",
+            "week": "7",
+            "stats": {
+             "stat": [
+              {
+               "stat_id": "9004003",
+               "value": "103/215"
+              },
+              {
+               "stat_id": "5",
+               "value": ".479"
+              },
+              {
+               "stat_id": "9007006",
+               "value": "39/52"
+              },
+              {
+               "stat_id": "8",
+               "value": ".750"
+              },
+              {
+               "stat_id": "10",
+               "value": "24"
+              },
+              {
+               "stat_id": "12",
+               "value": "269"
+              },
+              {
+               "stat_id": "15",
+               "value": "110"
+              },
+              {
+               "stat_id": "16",
+               "value": "69"
+              },
+              {
+               "stat_id": "17",
+               "value": "23"
+              },
+              {
+               "stat_id": "18",
+               "value": "17"
+              },
+              {
+               "stat_id": "19",
+               "value": "36"
+              }
+             ]
+            }
+           },
+           "team_points": {
+            "coverage_type": "week",
+            "week": "7",
+            "total": "7"
+           }
+          }
+         ]
+        }
+       },
+       {
+        "week": "7",
+        "week_start": "2014-12-08",
+        "week_end": "2014-12-14",
+        "status": "midevent",
+        "is_playoffs": "0",
+        "is_consolation": "0",
+        "teams": {
+         "count": "2",
+         "team": [
+          {
+           "team_key": "342.l.42669.t.3",
+           "team_id": "3",
+           "name": "OVO",
+           "url": "http://basketball.fantasysports.yahoo.com/nba/42669/3",
+           "team_logos": {
+            "team_logo": {
+             "size": "large",
+             "url": "http://l.yimg.com/dh/ap/fantasy/img/nba/icon_01_100.png"
+            }
+           },
+           "waiver_priority": "13",
+           "number_of_moves": "16",
+           "number_of_trades": "0",
+           "roster_adds": {
+            "coverage_type": "week",
+            "coverage_value": "7",
+            "value": "2"
+           },
+           "managers": {
+            "manager": {
+             "manager_id": "3",
+             "nickname": "Sneha",
+             "guid": "YQ7POLYJMK6MLQYXBSWF36LFVI",
+             "email": "sneha.sheth23@gmail.com",
+             "image_url": "https://s.yimg.com/dh/ap/social/profile/profile_b64.png"
+            }
+           },
+           "team_stats": {
+            "coverage_type": "week",
+            "week": "7",
+            "stats": {
+             "stat": [
+              {
+               "stat_id": "9004003",
+               "value": "85/200"
+              },
+              {
+               "stat_id": "5",
+               "value": ".425"
+              },
+              {
+               "stat_id": "9007006",
+               "value": "58/69"
+              },
+              {
+               "stat_id": "8",
+               "value": ".841"
+              },
+              {
+               "stat_id": "10",
+               "value": "10"
+              },
+              {
+               "stat_id": "12",
+               "value": "238"
+              },
+              {
+               "stat_id": "15",
+               "value": "116"
+              },
+              {
+               "stat_id": "16",
+               "value": "42"
+              },
+              {
+               "stat_id": "17",
+               "value": "9"
+              },
+              {
+               "stat_id": "18",
+               "value": "17"
+              },
+              {
+               "stat_id": "19",
+               "value": "32"
+              }
+             ]
+            }
+           },
+           "team_points": {
+            "coverage_type": "week",
+            "week": "7",
+            "total": "3"
+           }
+          },
+          {
+           "team_key": "342.l.42669.t.10",
+           "team_id": "10",
+           "name": "Unibrow Beatdown",
+           "url": "http://basketball.fantasysports.yahoo.com/nba/42669/10",
+           "team_logos": {
+            "team_logo": {
+             "size": "large",
+             "url": "https://i.imgur-ysports.com/YyJerOly.jpg"
+            }
+           },
+           "waiver_priority": "9",
+           "number_of_moves": "25",
+           "number_of_trades": "0",
+           "roster_adds": {
+            "coverage_type": "week",
+            "coverage_value": "7",
+            "value": "1"
+           },
+           "managers": {
+            "manager": {
+             "manager_id": "10",
+             "nickname": "Jason",
+             "guid": "7UZ6GOMN2IAIWB7BXQVFQTT6Q4",
+             "email": "jasonrajasegaram@hotmail.com",
+             "image_url": "https://s.yimg.com/dh/ap/social/profile/profile_b64.png"
+            }
+           },
+           "team_stats": {
+            "coverage_type": "week",
+            "week": "7",
+            "stats": {
+             "stat": [
+              {
+               "stat_id": "9004003",
+               "value": "90/215"
+              },
+              {
+               "stat_id": "5",
+               "value": ".419"
+              },
+              {
+               "stat_id": "9007006",
+               "value": "46/55"
+              },
+              {
+               "stat_id": "8",
+               "value": ".836"
+              },
+              {
+               "stat_id": "10",
+               "value": "21"
+              },
+              {
+               "stat_id": "12",
+               "value": "247"
+              },
+              {
+               "stat_id": "15",
+               "value": "114"
+              },
+              {
+               "stat_id": "16",
+               "value": "66"
+              },
+              {
+               "stat_id": "17",
+               "value": "16"
+              },
+              {
+               "stat_id": "18",
+               "value": "21"
+              },
+              {
+               "stat_id": "19",
+               "value": "27"
+              }
+             ]
+            }
+           },
+           "team_points": {
+            "coverage_type": "week",
+            "week": "7",
+            "total": "6"
+           }
+          }
+         ]
+        }
+       },
+       {
+        "week": "7",
+        "week_start": "2014-12-08",
+        "week_end": "2014-12-14",
+        "status": "midevent",
+        "is_playoffs": "0",
+        "is_consolation": "0",
+        "teams": {
+         "count": "2",
+         "team": [
+          {
+           "team_key": "342.l.42669.t.5",
+           "team_id": "5",
+           "name": "Prageezus",
+           "url": "http://basketball.fantasysports.yahoo.com/nba/42669/5",
+           "team_logos": {
+            "team_logo": {
+             "size": "large",
+             "url": "https://i.imgur-ysports.com/5Zx4gdhy.jpg"
+            }
+           },
+           "waiver_priority": "14",
+           "number_of_moves": "17",
+           "number_of_trades": "3",
+           "roster_adds": {
+            "coverage_type": "week",
+            "coverage_value": "7",
+            "value": "1"
+           },
+           "managers": {
+            "manager": {
+             "manager_id": "5",
+             "nickname": "Prageen",
+             "guid": "DAMCT3RVYGD3THMFO2U6TMSJHM",
+             "email": "prageen.siva@gmail.com",
+             "image_url": "https://s.yimg.com/dh/ap/social/profile/profile_b64.png"
+            }
+           },
+           "team_stats": {
+            "coverage_type": "week",
+            "week": "7",
+            "stats": {
+             "stat": [
+              {
+               "stat_id": "9004003",
+               "value": "78/168"
+              },
+              {
+               "stat_id": "5",
+               "value": ".464"
+              },
+              {
+               "stat_id": "9007006",
+               "value": "40/56"
+              },
+              {
+               "stat_id": "8",
+               "value": ".714"
+              },
+              {
+               "stat_id": "10",
+               "value": "9"
+              },
+              {
+               "stat_id": "12",
+               "value": "205"
+              },
+              {
+               "stat_id": "15",
+               "value": "87"
+              },
+              {
+               "stat_id": "16",
+               "value": "52"
+              },
+              {
+               "stat_id": "17",
+               "value": "25"
+              },
+              {
+               "stat_id": "18",
+               "value": "6"
+              },
+              {
+               "stat_id": "19",
+               "value": "28"
+              }
+             ]
+            }
+           },
+           "team_points": {
+            "coverage_type": "week",
+            "week": "7",
+            "total": "3"
+           }
+          },
+          {
+           "team_key": "342.l.42669.t.13",
+           "team_id": "13",
+           "name": "J Squad",
+           "url": "http://basketball.fantasysports.yahoo.com/nba/42669/13",
+           "team_logos": {
+            "team_logo": {
+             "size": "large",
+             "url": "http://l.yimg.com/dh/ap/fantasy/img/nba/icon_12_100.png"
+            }
+           },
+           "waiver_priority": "6",
+           "number_of_moves": "4",
+           "number_of_trades": "1",
+           "roster_adds": {
+            "coverage_type": "week",
+            "coverage_value": "7",
+            "value": "0"
+           },
+           "managers": {
+            "manager": {
+             "manager_id": "13",
+             "nickname": "Jasinthar Amirthalilngam",
+             "guid": "QNGNNSGEBQVLSSXWZWPZHS7N2Q",
+             "email": "jasi005@hotmail.com",
+             "image_url": "https://s.yimg.com/dh/ap/social/profile/profile_b64.png"
+            }
+           },
+           "team_stats": {
+            "coverage_type": "week",
+            "week": "7",
+            "stats": {
+             "stat": [
+              {
+               "stat_id": "9004003",
+               "value": "126/232"
+              },
+              {
+               "stat_id": "5",
+               "value": ".543"
+              },
+              {
+               "stat_id": "9007006",
+               "value": "39/54"
+              },
+              {
+               "stat_id": "8",
+               "value": ".722"
+              },
+              {
+               "stat_id": "10",
+               "value": "30"
+              },
+              {
+               "stat_id": "12",
+               "value": "321"
+              },
+              {
+               "stat_id": "15",
+               "value": "78"
+              },
+              {
+               "stat_id": "16",
+               "value": "58"
+              },
+              {
+               "stat_id": "17",
+               "value": "20"
+              },
+              {
+               "stat_id": "18",
+               "value": "10"
+              },
+              {
+               "stat_id": "19",
+               "value": "33"
+              }
+             ]
+            }
+           },
+           "team_points": {
+            "coverage_type": "week",
+            "week": "7",
+            "total": "6"
+           }
+          }
+         ]
+        }
+       },
+       {
+        "week": "7",
+        "week_start": "2014-12-08",
+        "week_end": "2014-12-14",
+        "status": "midevent",
+        "is_playoffs": "0",
+        "is_consolation": "0",
+        "teams": {
+         "count": "2",
+         "team": [
+          {
+           "team_key": "342.l.42669.t.7",
+           "team_id": "7",
+           "name": "The ReBrand",
+           "url": "http://basketball.fantasysports.yahoo.com/nba/42669/7",
+           "team_logos": {
+            "team_logo": {
+             "size": "large",
+             "url": "https://i.imgur-ysports.com/CIpvPeIy.jpg"
+            }
+           },
+           "waiver_priority": "4",
+           "number_of_moves": "13",
+           "number_of_trades": "1",
+           "roster_adds": {
+            "coverage_type": "week",
+            "coverage_value": "7",
+            "value": "4"
+           },
+           "managers": {
+            "manager": {
+             "manager_id": "7",
+             "nickname": "Sujeepan",
+             "guid": "52HJTBYMUXRKD3L6FCW3L5DAKI",
+             "email": "sujeepan_k@hotmail.com",
+             "image_url": "https://s.yimg.com/dh/ap/social/profile/profile_b64.png"
+            }
+           },
+           "team_stats": {
+            "coverage_type": "week",
+            "week": "7",
+            "stats": {
+             "stat": [
+              {
+               "stat_id": "9004003",
+               "value": "97/211"
+              },
+              {
+               "stat_id": "5",
+               "value": ".460"
+              },
+              {
+               "stat_id": "9007006",
+               "value": "41/55"
+              },
+              {
+               "stat_id": "8",
+               "value": ".745"
+              },
+              {
+               "stat_id": "10",
+               "value": "21"
+              },
+              {
+               "stat_id": "12",
+               "value": "256"
+              },
+              {
+               "stat_id": "15",
+               "value": "97"
+              },
+              {
+               "stat_id": "16",
+               "value": "77"
+              },
+              {
+               "stat_id": "17",
+               "value": "19"
+              },
+              {
+               "stat_id": "18",
+               "value": "2"
+              },
+              {
+               "stat_id": "19",
+               "value": "34"
+              }
+             ]
+            }
+           },
+           "team_points": {
+            "coverage_type": "week",
+            "week": "7",
+            "total": "2"
+           }
+          },
+          {
+           "team_key": "342.l.42669.t.9",
+           "team_id": "9",
+           "name": "Mr.PreZidenT",
+           "url": "http://basketball.fantasysports.yahoo.com/nba/42669/9",
+           "team_logos": {
+            "team_logo": {
+             "size": "large",
+             "url": "https://i.imgur-ysports.com/X8Cx8gry.jpg"
+            }
+           },
+           "waiver_priority": "3",
+           "number_of_moves": "17",
+           "number_of_trades": "1",
+           "roster_adds": {
+            "coverage_type": "week",
+            "coverage_value": "7",
+            "value": "2"
+           },
+           "managers": {
+            "manager": {
+             "manager_id": "9",
+             "nickname": "Prez",
+             "guid": "EG5Y6RI4ODILBOYH3J5I2ODC3Q",
+             "email": "prezkarun26@yahoo.com",
+             "image_url": "https://socialprofiles.zenfs.com/images/c804f619390c82e9324b4e86156c5102_64.png"
+            }
+           },
+           "team_stats": {
+            "coverage_type": "week",
+            "week": "7",
+            "stats": {
+             "stat": [
+              {
+               "stat_id": "9004003",
+               "value": "107/220"
+              },
+              {
+               "stat_id": "5",
+               "value": ".486"
+              },
+              {
+               "stat_id": "9007006",
+               "value": "43/51"
+              },
+              {
+               "stat_id": "8",
+               "value": ".843"
+              },
+              {
+               "stat_id": "10",
+               "value": "27"
+              },
+              {
+               "stat_id": "12",
+               "value": "284"
+              },
+              {
+               "stat_id": "15",
+               "value": "88"
+              },
+              {
+               "stat_id": "16",
+               "value": "39"
+              },
+              {
+               "stat_id": "17",
+               "value": "25"
+              },
+              {
+               "stat_id": "18",
+               "value": "7"
+              },
+              {
+               "stat_id": "19",
+               "value": "32"
+              }
+             ]
+            }
+           },
+           "team_points": {
+            "coverage_type": "week",
+            "week": "7",
+            "total": "7"
+           }
+          }
+         ]
+        }
+       },
+       {
+        "week": "7",
+        "week_start": "2014-12-08",
+        "week_end": "2014-12-14",
+        "status": "midevent",
+        "is_playoffs": "0",
+        "is_consolation": "0",
+        "teams": {
+         "count": "2",
+         "team": [
+          {
+           "team_key": "342.l.42669.t.8",
+           "team_id": "8",
+           "name": "50 Shades of Gay",
+           "is_owned_by_current_login": "1",
+           "url": "http://basketball.fantasysports.yahoo.com/nba/42669/8",
+           "team_logos": {
+            "team_logo": {
+             "size": "large",
+             "url": "https://i.imgur-ysports.com/ZVM6FVjy.jpg"
+            }
+           },
+           "waiver_priority": "5",
+           "number_of_moves": "6",
+           "number_of_trades": "2",
+           "roster_adds": {
+            "coverage_type": "week",
+            "coverage_value": "7",
+            "value": "0"
+           },
+           "managers": {
+            "manager": {
+             "manager_id": "8",
+             "nickname": "Vithushan N",
+             "guid": "HFEKMRB6U5JH4FT4PPHTOZKDFU",
+             "is_commissioner": "1",
+             "is_current_login": "1",
+             "email": "vithushan19@yahoo.ca",
+             "image_url": "https://s.yimg.com/dg/users/1ek6Bi5sOAAQEAAJh1Ed-Cw==.64.png"
+            }
+           },
+           "team_stats": {
+            "coverage_type": "week",
+            "week": "7",
+            "stats": {
+             "stat": [
+              {
+               "stat_id": "9004003",
+               "value": "112/239"
+              },
+              {
+               "stat_id": "5",
+               "value": ".469"
+              },
+              {
+               "stat_id": "9007006",
+               "value": "59/71"
+              },
+              {
+               "stat_id": "8",
+               "value": ".831"
+              },
+              {
+               "stat_id": "10",
+               "value": "25"
+              },
+              {
+               "stat_id": "12",
+               "value": "308"
+              },
+              {
+               "stat_id": "15",
+               "value": "123"
+              },
+              {
+               "stat_id": "16",
+               "value": "65"
+              },
+              {
+               "stat_id": "17",
+               "value": "23"
+              },
+              {
+               "stat_id": "18",
+               "value": "13"
+              },
+              {
+               "stat_id": "19",
+               "value": "42"
+              }
+             ]
+            }
+           },
+           "team_points": {
+            "coverage_type": "week",
+            "week": "7",
+            "total": "4"
+           }
+          },
+          {
+           "team_key": "342.l.42669.t.12",
+           "team_id": "12",
+           "name": "wade wont fade",
+           "url": "http://basketball.fantasysports.yahoo.com/nba/42669/12",
+           "team_logos": {
+            "team_logo": {
+             "size": "large",
+             "url": "http://l.yimg.com/dh/ap/fantasy/img/nba/icon_01_100.png"
+            }
+           },
+           "waiver_priority": "8",
+           "number_of_moves": "10",
+           "number_of_trades": "1",
+           "roster_adds": {
+            "coverage_type": "week",
+            "coverage_value": "7",
+            "value": "1"
+           },
+           "managers": {
+            "manager": {
+             "manager_id": "12",
+             "nickname": "Anojan",
+             "guid": "WLAP3UHLG7EALSQ6FMHEDNFAJE",
+             "email": "anojan_gunasekaran@yahoo.com",
+             "image_url": "https://s.yimg.com/dh/ap/social/profile/profile_b64.png"
+            }
+           },
+           "team_stats": {
+            "coverage_type": "week",
+            "week": "7",
+            "stats": {
+             "stat": [
+              {
+               "stat_id": "9004003",
+               "value": "142/313"
+              },
+              {
+               "stat_id": "5",
+               "value": ".454"
+              },
+              {
+               "stat_id": "9007006",
+               "value": "70/87"
+              },
+              {
+               "stat_id": "8",
+               "value": ".805"
+              },
+              {
+               "stat_id": "10",
+               "value": "16"
+              },
+              {
+               "stat_id": "12",
+               "value": "370"
+              },
+              {
+               "stat_id": "15",
+               "value": "141"
+              },
+              {
+               "stat_id": "16",
+               "value": "72"
+              },
+              {
+               "stat_id": "17",
+               "value": "23"
+              },
+              {
+               "stat_id": "18",
+               "value": "16"
+              },
+              {
+               "stat_id": "19",
+               "value": "44"
+              }
+             ]
+            }
+           },
+           "team_points": {
+            "coverage_type": "week",
+            "week": "7",
+            "total": "4"
+           }
+          }
+         ]
+        }
+       },
+       {
+        "week": "7",
+        "week_start": "2014-12-08",
+        "week_end": "2014-12-14",
+        "status": "midevent",
+        "is_playoffs": "0",
+        "is_consolation": "0",
+        "teams": {
+         "count": "2",
+         "team": [
+          {
+           "team_key": "342.l.42669.t.11",
+           "team_id": "11",
+           "name": "Thunder Is Coming",
+           "url": "http://basketball.fantasysports.yahoo.com/nba/42669/11",
+           "team_logos": {
+            "team_logo": {
+             "size": "large",
+             "url": "https://i.imgur-ysports.com/BlOzCZmy.jpg"
+            }
+           },
+           "waiver_priority": "7",
+           "number_of_moves": "30",
+           "number_of_trades": "1",
+           "roster_adds": {
+            "coverage_type": "week",
+            "coverage_value": "7",
+            "value": "1"
+           },
+           "managers": {
+            "manager": {
+             "manager_id": "11",
+             "nickname": "Lucksson",
+             "guid": "OMP2HB6POGHBBKYPPWBOKCBFOQ",
+             "email": "lucksson@hotmail.com",
+             "image_url": "https://s.yimg.com/dh/ap/social/profile/profile_b64.png"
+            }
+           },
+           "team_stats": {
+            "coverage_type": "week",
+            "week": "7",
+            "stats": {
+             "stat": [
+              {
+               "stat_id": "9004003",
+               "value": "66/136"
+              },
+              {
+               "stat_id": "5",
+               "value": ".485"
+              },
+              {
+               "stat_id": "9007006",
+               "value": "35/45"
+              },
+              {
+               "stat_id": "8",
+               "value": ".778"
+              },
+              {
+               "stat_id": "10",
+               "value": "15"
+              },
+              {
+               "stat_id": "12",
+               "value": "182"
+              },
+              {
+               "stat_id": "15",
+               "value": "60"
+              },
+              {
+               "stat_id": "16",
+               "value": "36"
+              },
+              {
+               "stat_id": "17",
+               "value": "12"
+              },
+              {
+               "stat_id": "18",
+               "value": "3"
+              },
+              {
+               "stat_id": "19",
+               "value": "28"
+              }
+             ]
+            }
+           },
+           "team_points": {
+            "coverage_type": "week",
+            "week": "7",
+            "total": "4"
+           }
+          },
+          {
+           "team_key": "342.l.42669.t.14",
+           "team_id": "14",
+           "name": "The UnderPuppy",
+           "url": "http://basketball.fantasysports.yahoo.com/nba/42669/14",
+           "team_logos": {
+            "team_logo": {
+             "size": "large",
+             "url": "http://l.yimg.com/dh/ap/fantasy/img/nba/icon_06_100.png"
+            }
+           },
+           "waiver_priority": "12",
+           "number_of_moves": "12",
+           "number_of_trades": "3",
+           "roster_adds": {
+            "coverage_type": "week",
+            "coverage_value": "7",
+            "value": "2"
+           },
+           "managers": {
+            "manager": {
+             "manager_id": "14",
+             "nickname": "Kavitha",
+             "guid": "Q3QUKUVOS4T5RJRU4FAUVIR7XY",
+             "email": "kavitha.thiy@yahoo.com",
+             "image_url": "https://s.yimg.com/dh/ap/social/profile/profile_b64.png"
+            }
+           },
+           "team_stats": {
+            "coverage_type": "week",
+            "week": "7",
+            "stats": {
+             "stat": [
+              {
+               "stat_id": "9004003",
+               "value": "92/213"
+              },
+              {
+               "stat_id": "5",
+               "value": ".432"
+              },
+              {
+               "stat_id": "9007006",
+               "value": "47/63"
+              },
+              {
+               "stat_id": "8",
+               "value": ".746"
+              },
+              {
+               "stat_id": "10",
+               "value": "6"
+              },
+              {
+               "stat_id": "12",
+               "value": "237"
+              },
+              {
+               "stat_id": "15",
+               "value": "100"
+              },
+              {
+               "stat_id": "16",
+               "value": "69"
+              },
+              {
+               "stat_id": "17",
+               "value": "23"
+              },
+              {
+               "stat_id": "18",
+               "value": "9"
+              },
+              {
+               "stat_id": "19",
+               "value": "41"
+              }
+             ]
+            }
+           },
+           "team_points": {
+            "coverage_type": "week",
+            "week": "7",
+            "total": "5"
+           }
+          }
+         ]
+        }
+       }
+      ]
+     }
+    }
+   }
+  }
+ }
+}
